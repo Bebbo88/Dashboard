@@ -9,7 +9,7 @@ import Contacts from "./pages/Contacts.jsx";
 import Invoices from "./pages/Invoices.jsx";
 import ProfileForm from "./pages/Profile.jsx";
 import CalendarPage from "./pages/Calendar.jsx";
-import FAQ from "./pages/FAQ.jsx";
+import FAQ from "./pages/Faq.jsx";
 
 import BarChartPage from "./pages/BarChartPage.jsx";
 import PoeChartPage from "./pages/PoeChartPage.jsx";
